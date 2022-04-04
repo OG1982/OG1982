@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OG1982
 - 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning SQL, R
-- 💞️ I’m looking to collaborate on interesting projects where I can use SQL, R, viz tools
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on interesting projects where I can use SQL, Python, Power BI, Tableau
 - 📫 How to reach me gazo.1982@gmail.com
 
 <!---
